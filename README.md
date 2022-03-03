@@ -1,5 +1,4 @@
-# data-science-portfolio
-Hi there,
+Hello there,
 I did a lot of practices in data analysis from various online sources.
 I have included the original source of the dataset, video, or tutorial inside my code respectfully.
 
