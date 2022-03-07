@@ -1,1 +1,4 @@
-Some graphs are not showing on the notebook due to Plotly dynamic graph that is not supported by Github.
+Some graphs are not showing on the notebook as github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. 
+You may view the full graphs from my code by copy and paste the notebook on https://nbviewer.org/
+
+Thank you!
