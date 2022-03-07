@@ -1,5 +1,5 @@
 Some graphs are not showing on the notebook as github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. 
-You may view the full graphs from by copy the link below:
+You may view the full graphs, please click on the link below:
 
 https://nbviewer.org/github/chris-themin/data-science-portfolio/blob/master/Olympics%202021/olympics.ipynb
 
